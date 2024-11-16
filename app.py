@@ -10,7 +10,8 @@ from example import example
 import os
 # from dotenv import load_dotenv
 
-# load_dotenv()  # take environment variables from .env 
+# load_dotenv() 
+# take environment variables from .env 
 
 #Wrapper for the embeddings
 import functools
